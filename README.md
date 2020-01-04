@@ -1,1 +1,2 @@
-# DIC TASK / HTML / CSS
+# README
+This Repository is Task HTML & CSS for DIC.
